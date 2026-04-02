@@ -115,6 +115,5 @@ CI uses GitHub repository secrets
 ReqRes is used as a public API intended for testing practice and learning
 Status
 
-Completed initial version with working API tests and CI pipeline.
 
 
