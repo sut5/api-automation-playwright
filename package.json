@@ -1,0 +1,29 @@
+{
+  "name": "api-automation-playwright",
+  "version": "1.0.0",
+  "description": "Professional API automation framework using Playwright, TypeScript, Postman, and GitHub Actions",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:report": "playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sut5/api-automation-playwright.git"
+  },
+  "keywords": [
+    "api-testing",
+    "playwright",
+    "typescript",
+    "postman",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.0"
+  }
+}
